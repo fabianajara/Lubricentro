@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "858290000176",
+    "project_id": "lubricentro-montecillos",
+    "storage_bucket": "lubricentro-montecillos.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858290000176:android:89559b7fdfc9a75a0178f5",
+        "android_client_info": {
+          "package_name": "com.desarrolloG2.lubricentromontecillos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAe2vstoYKeFAqRYAPRALDJES7W9ZH1EjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
